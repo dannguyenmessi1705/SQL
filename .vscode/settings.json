@@ -1,0 +1,109 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Shop",
+      "group": "node-shop",
+      "database": "node-shop",
+      "username": "root",
+      "password": "17052002"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "192.168.0.105",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "dblab.admin",
+      "group": "CSDL",
+      "database": "dblab",
+      "username": "dblab.admin",
+      "password": "maria105sql"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "192.168.0.105",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "dblab.user01",
+      "group": "CSDL",
+      "database": "dblab",
+      "username": "dblab.user01",
+      "password": "maria105sql"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "192.168.0.105",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "dblab.user02",
+      "group": "CSDL",
+      "database": "dblab",
+      "username": "dblab.user02",
+      "password": "maria105sql"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "192.168.0.105",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "hr.admin",
+      "group": "CSDL",
+      "database": "hr",
+      "username": "hr.admin",
+      "password": "maria105sql"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "192.168.0.105",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "hr.user01",
+      "group": "CSDL",
+      "database": "hr",
+      "username": "hr.user01",
+      "password": "maria105sql"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "192.168.0.105",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "hr.user02",
+      "group": "CSDL",
+      "database": "hr",
+      "username": "hr.user02",
+      "password": "maria105sql"
+    }
+  ]
+}
